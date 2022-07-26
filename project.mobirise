@@ -72,7 +72,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "0wzcqdlir4",
+    "mbrsiteDomain": "yshg12yqjj",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -98,11 +98,11 @@
     "chatbutton": {},
     "PWA": {
       "enabled": true,
-      "name": "Jaipur",
-      "icon": "@PROJECT_PATH@/assets/images/208671273-4706283482719582-5547826162474410805-n-512x512_1.png",
+      "name": "Nuitsblanche",
+      "icon": "@PROJECT_PATH@/assets/images/293505923-582064520071766-7332387457458128900-n-512x512.png",
       "themeColor": "#000000"
     },
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nParfums, Original , Oran , Produits Cosmetiques , Beaute, Soins",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-Z9LDY6XJHC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-Z9LDY6XJHC');\n</script>"
   },
