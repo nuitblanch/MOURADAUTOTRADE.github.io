@@ -2585,7 +2585,7 @@ section.lazy-placeholder:after {
   list-style-type: none;
   background-color: #111213;
   color: #efefef;
-  height: 43px;
+  height: 52px;
   padding: 0px;
   margin: 0px 0px 1px 0px;
   -webkit-transition: all 0.25s ease-in-out;
@@ -2620,7 +2620,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-tcwh3tz3Oh .mbr-text {
-  text-align: left;
+  text-align: center;
   color: #ffffff;
 }
 .cid-tcIqkMYEI9 {
