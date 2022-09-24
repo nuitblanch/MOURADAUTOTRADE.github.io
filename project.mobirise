@@ -75,7 +75,7 @@
       "icon": "@PROJECT_PATH@/assets/images/whatsapp-image-2022-09-24-at-00.09.13-512x512.png",
       "themeColor": "#000000"
     },
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "gdpr": false
   },
   "pages": {
@@ -367,11 +367,11 @@
             }
           },
           "_cid": "timO9oi41J",
+          "_anchor": "video1-j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video1-j"
+          "_params": {}
         },
         {
           "alias": "zen2cool-blocks/components",
@@ -415,12 +415,12 @@
           "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <header>News</header>\n                <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" name=\"textWidth\" title=\"Box Width\" min=\"4\" max=\"12\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"News Width\" name=\"newswidth\" min=\"100\" max=\"250\" step=\"1\" value=\"100\">\n        <input type=\"color\" title=\"News Color\" name=\"newscolor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Dots Color\" name=\"dotscolor\" value=\"#ffffff\">\n                \n\n        <header>Text</header>\n      <input type=\"color\" title=\"Text BG Color\" name=\"textbgcolor\" value=\"#ffffff\">\n\n                              <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n      </fieldset>\n        \n         <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"bg.type == 'color'\">\n         <input type=\"range\" name=\"angle\" title=\"Angle\" min=\"0\" max=\"270\" value=\"0\" step=\"1\" condition=\"bg.type == 'color'\">\n\t\t <input type=\"checkbox\" title=\"Background Transparent\" name=\"transp\" condition=\"bg.type == 'color'\">\n        </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n<div class=\"container mt-10 col-lg-{{textWidth}}\">\n    <div class=\"row\">\n        <div class=\"col-md-12 \">\n            <div class=\"d-flex justify-content-between align-items-center breaking-news\" style=\"background: {{textbgcolor}}\">\n                <div class=\"d-flex flex-row flex-grow-1 flex-fill justify-content-center py-2  px-2 news\"><span class=\"d-flex align-items-center\"><div mbr-text><b>عاجل</b></div></span></div>\n                <marquee class=\"news-scroll\" behavior=\"scroll\" direction=\"left\" onmouseover=\"this.stop();\" onmouseout=\"this.start();\"> <a href=\"#\"></a><div mbr-text><b>الهادي للأسفار والعالم بين يديك&nbsp; &nbsp; &nbsp; الهادي للأسفار والعالم بين يديك&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; الهادي للأسفار والعالم بين يديك&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; الهادي للأسفار والعالم بين يديك</b></div> </marquee>\n            </div>\n        </div>\n    </div>\n\n     </div>\n\n\n   \n</div></section>",
           "_cid": "timjkQLAtu",
           "_anchor": "breaking-e",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         }
       ]
     }
