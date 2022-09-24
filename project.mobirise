@@ -24,8 +24,8 @@
         "display4Font": "Open Sans",
         "display4Size": "1.8",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#dcd3f7",
@@ -53,7 +53,7 @@
     },
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2022-09-24-at-00.09.13-128x124.png",
-    "mbrsiteDomain": "aeqjv34ixd",
+    "mbrsiteDomain": "fstgs5838t",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
