@@ -2,35 +2,35 @@ body {
   font-family: Open Sans;
 }
 .display-1 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 4.2rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.72rem;
 }
 .display-2 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2.4rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 3.84rem;
 }
 .display-4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.8rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 2.88rem;
 }
 .display-5 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 3.2rem;
 }
 .display-7 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2rem;
 }
 .display-7 > .mbr-iconfont {
@@ -480,15 +480,9 @@ a.text-black:focus {
 .alert-danger {
   background-color: #ececec;
 }
-.mbr-section-btn a.btn:not(.btn-form) {
-  border-radius: 100px;
-}
 .mbr-section-btn a.btn:not(.btn-form):hover,
 .mbr-section-btn a.btn:not(.btn-form):focus {
   box-shadow: none !important;
-}
-.mbr-gallery-filter li a {
-  border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
   background-color: #ff4a52;
@@ -497,9 +491,6 @@ a.text-black:focus {
 }
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
-}
-.nav-tabs .nav-link {
-  border-radius: 100px !important;
 }
 a,
 a:hover {
@@ -526,8 +517,8 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -593,7 +584,7 @@ a:hover {
   width: 14px;
 }
 .form-control {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.8rem;
 }
 .form-control > .mbr-iconfont {
