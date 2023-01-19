@@ -76,7 +76,7 @@
       "icon": "@PROJECT_PATH@/assets/images/whatsapp-image-2022-09-24-at-00.09.13-512x512.png",
       "themeColor": "#000000"
     },
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": false
   },
   "pages": {
