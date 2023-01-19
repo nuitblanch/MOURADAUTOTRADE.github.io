@@ -59,8 +59,8 @@
       "currency": "USD"
     },
     "chatbutton": {},
-    "favicon": false,
-    "mbrsiteDomain": "gluhgm7ybi",
+    "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-01-19-at-17.41.27-128x103_1.png",
+    "mbrsiteDomain": "oahyxdotmc",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
